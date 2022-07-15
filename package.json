@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "sapper": "^0.27.13",
-    "svelte": "^3.22.2",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.13.6",
     "webpack": "^4.41.6"
   }
